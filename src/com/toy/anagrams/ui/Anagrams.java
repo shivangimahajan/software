@@ -69,6 +69,7 @@ public class Anagrams extends JFrame {
 
         /* Create and display the form */
         System.out.println("hello1");
+        System.out.println("hello shivangi");
                 
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
