@@ -68,6 +68,8 @@ public class Anagrams extends JFrame {
         //</editor-fold>
 
         /* Create and display the form */
+        System.out.println("hello1");
+                
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
                 new Anagrams().setVisible(true);
